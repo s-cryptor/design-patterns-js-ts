@@ -84,3 +84,5 @@ function clientCode2(component1: Component, component2: Component) {
 
 console.log('Client: I don\'t need to check the components classes even when managing the tree:')
 clientCode2(tree, simple)
+
+export {}
