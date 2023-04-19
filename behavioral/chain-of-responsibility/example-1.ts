@@ -74,3 +74,5 @@ console.log('')
 
 console.log('Subchain: Squirrel > Dog\n')
 clientCode(squirrel)
+
+export {}
